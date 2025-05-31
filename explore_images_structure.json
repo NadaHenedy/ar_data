@@ -1,0 +1,67 @@
+[
+  {
+    "name": "bohemian style",
+    "subcategory": [
+      { "name": "beds", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "buffet", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "chairs", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "coffee tables", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "curtains", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "dining table", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "dresssing tables", "images": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "mirrors", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side lamps", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side table", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "sofa", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "wardrobe", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] }
+    ]
+  },
+  {
+    "name": "classic style",
+    "subcategory": [
+      { "name": "beds", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "buffet", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "chairs", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "coffee tables", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "curtains", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "dining table", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "dresssing tables", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "mirrors", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side lamps", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side table", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "sofa", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "wardrobe", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] }
+    ]
+  },
+  {
+    "name": "kids",
+    "subcategory": [
+      { "name": "beds", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "23.png", "25.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "chairs", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "curtains", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "dressing_tables", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "mirrors", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side_lamps", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side_tables", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "sofa", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "studying_desks", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "wardrobes", "images": ["1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] }
+    ]
+  },
+  {
+    "name": "modern style",
+    "subcategory": [
+      { "name": "Beds", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Buffet", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Chairs", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "23.png", "24.png", "25.png", "26.png", "27.png", "28.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "coffee tables", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Dressing tables", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Lamps", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "mirror", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "22.png", "23.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "side tables", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Sofas", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Tables", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "15.png", "16.png", "17.png", "18.png", "19.png", "2.png", "20.png", "21.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] },
+      { "name": "Wardrobe", "images": ["0.png", "1.png", "10.png", "11.png", "12.png", "13.png", "14.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"] }
+    ]
+  }
+]
